@@ -1,0 +1,37 @@
+\select@language {spanish}
+\contentsline {chapter}{\'Indice de figuras}{5}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introducci\'on}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Definici\'on del problema}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivo General}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Objetivos espec\IeC {\'\i }ficos}{2}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Estado del Arte}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Estudio de Mercado}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}An\'alisis de la demanda}{6}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Competidores en el mercado}{7}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Determinaci\'on del tama\~no de la muestra}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Resultados de la investigaci\'on de mercado}{8}{subsection.3.2.1}
+\contentsline {chapter}{\numberline {4}Marco Te\'orico}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sistema de riego}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Ventajas de Instalar un Sistema de Riego}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}Tipos de sistemas de riego}{12}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Riego por aspersi\'on}{12}{subsection.4.3.1}
+\contentsline {subsubsection}{Ventajas de riego por aspersi\'on}{12}{section*.5}
+\contentsline {subsection}{\numberline {4.3.2}Riego por goteo autom\'atico}{13}{subsection.4.3.2}
+\contentsline {subsubsection}{Ventajas del riego por goteo autom\'atico}{13}{section*.6}
+\contentsline {section}{\numberline {4.4}Riego de superficie}{14}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Factores que influyen en el sistema de riego}{15}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Raspberry}{16}{subsection.4.4.2}
+\contentsline {subsubsection}{Ventajas de la Raspberry}{17}{section*.7}
+\contentsline {section}{\numberline {4.5}Sensor de temperatura DS18B20}{18}{section.4.5}
+\contentsline {subsubsection}{Caracter\IeC {\'\i }sticas}{18}{section*.8}
+\contentsline {section}{\numberline {4.6}Sensor de humedad FC28}{19}{section.4.6}
+\contentsline {subsubsection}{Caracter\IeC {\'\i }sticas}{19}{section*.9}
+\contentsline {section}{\numberline {4.7}Sensor de flujo YF-S201}{19}{section.4.7}
+\contentsline {section}{\numberline {4.8}Modulo RTC DS3231}{20}{section.4.8}
+\contentsline {section}{\numberline {4.9}Fotoresistencia}{21}{section.4.9}
+\contentsline {section}{\numberline {4.10}M\'odulo Sensor de Nivel de Agua}{22}{section.4.10}
+\contentsline {subsection}{\numberline {4.10.1}Caracter\IeC {\'\i }sticas}{22}{subsection.4.10.1}
+\contentsline {chapter}{\numberline {5}Etapa 1: Sistema de Riego}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}Circuito del sistema de riego con raspberry}{24}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Control de los sensores del sistema de riego con Raspberry}{26}{subsection.5.1.1}

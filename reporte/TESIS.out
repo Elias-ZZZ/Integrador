@@ -1,0 +1,31 @@
+\BOOKMARK [0][-]{chapter*.3}{\315ndice de figuras}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Definici\363n del problema}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Objetivos}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{Objetivo General}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.2}{Objetivos espec\355ficos}{section.1.2}% 6
+\BOOKMARK [0][-]{chapter.2}{Estado del Arte}{}% 7
+\BOOKMARK [0][-]{chapter.3}{Estudio de Mercado}{}% 8
+\BOOKMARK [1][-]{section.3.1}{An\341lisis de la demanda}{chapter.3}% 9
+\BOOKMARK [2][-]{subsection.3.1.1}{Competidores en el mercado}{section.3.1}% 10
+\BOOKMARK [1][-]{section.3.2}{Determinaci\363n del tama\361o de la muestra}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.2.1}{Resultados de la investigaci\363n de mercado}{section.3.2}% 12
+\BOOKMARK [0][-]{chapter.4}{Marco Te\363rico}{}% 13
+\BOOKMARK [1][-]{section.4.1}{Sistema de riego}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{Ventajas de Instalar un Sistema de Riego}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{Tipos de sistemas de riego}{chapter.4}% 16
+\BOOKMARK [2][-]{subsection.4.3.1}{Riego por aspersi\363n}{section.4.3}% 17
+\BOOKMARK [2][-]{subsection.4.3.2}{Riego por goteo autom\341tico}{section.4.3}% 18
+\BOOKMARK [1][-]{section.4.4}{Riego de superficie}{chapter.4}% 19
+\BOOKMARK [2][-]{subsection.4.4.1}{Factores que influyen en el sistema de riego}{section.4.4}% 20
+\BOOKMARK [2][-]{subsection.4.4.2}{Raspberry}{section.4.4}% 21
+\BOOKMARK [1][-]{section.4.5}{Sensor de temperatura DS18B20}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.6}{Sensor de humedad FC28}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.7}{Sensor de flujo YF-S201}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.8}{Modulo RTC DS3231}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.9}{Fotoresistencia}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.10}{M\363dulo Sensor de Nivel de Agua}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.10.1}{Caracter\355sticas}{section.4.10}% 28
+\BOOKMARK [0][-]{chapter.5}{Etapa 1: Sistema de Riego}{}% 29
+\BOOKMARK [1][-]{section.5.1}{Circuito del sistema de riego con raspberry}{chapter.5}% 30
+\BOOKMARK [2][-]{subsection.5.1.1}{Control de los sensores del sistema de riego con Raspberry}{section.5.1}% 31

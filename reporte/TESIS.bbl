@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{APLICACIONES}
+D\'amaso~Vel\'azquez \'Alvarez.
+\newblock {\em {Aplicaciones Web vs Aplicaciones de Escritorio}}.
+\newblock Consultor\'ia Inform\'atica, 2012.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{https://www.webprogramacion.com/356/blog-informatica-tecnologia/aplicaciones-web-vs-aplicaciones-de-escritorio.aspx}.
+
+\bibitem{MYSQL2}
+DB-Engines.
+\newblock {\em {DB-Engines Ranking}}.
+\newblock DB-Engines, 2016.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{http://db-engines.com/en/ranking}.
+
+\bibitem{HTML5}
+J.D. Gauchat.
+\newblock {\em {El Gran Libro de HTML5, CSS3 y Javascript}}.
+\newblock Marcombo, 2012.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf}.
+
+\bibitem{JQUERY2}
+jQuery Foundation.
+\newblock {\em {License}}.
+\newblock jQuery Foundation, 2009.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{https://w3techs.com/technologies/overview/javascript_library/all}.
+
+\bibitem{JAVA1}
+LangPop.
+\newblock {\em {Programming Language Popularity}}.
+\newblock LangPop, 2013.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{http://web.archive.org/web/20150829085248/http://langpop.com/}.
+
+\bibitem{MYSQL1}
+ORACLE.
+\newblock {\em {The World's Most Popular Open Source Database}}.
+\newblock ORACLE, 2016.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{http://www.oracle.com/us/products/mysql/overview/index.html}.
+
+\bibitem{JAVA2}
+TIOBE.
+\newblock {\em {July Headline: Assembly Language enters the Top 10 again}}.
+\newblock TIOBE, 2016.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{http://www.tiobe.com/tiobe_index}.
+
+\bibitem{MANUAL}
+\'Area de Tecnolog\'ias de la Informaci\'on y las Comunicaciones~Aplicadas.
+  Universidad~de Murcia.
+\newblock {\em {Manual B\'asico de Creaci\'on de P\'aginas Web}}.
+\newblock Universidad de Murcia, 2006.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{https://www.um.es/atica/documentos/html.pdf}.
+
+\bibitem{JQUERY1}
+W3Techs.
+\newblock {\em {Usage of JavaScript libraries for websites}}.
+\newblock W3Techs, 2009.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{https://w3techs.com/technologies/overview/javascript_library/all}.
+
+\bibitem{MYSQL3}
+Michael Widenius.
+\newblock {\em {Help saving MySQL}}.
+\newblock Monty Says Blog, 2009.
+\newblock [Acceso online; accesado el 26-Julio-2016]
+  \url{http://monty-says.blogspot.mx/2009/12/help-saving-mysql.html}.
+
+\end{thebibliography}

@@ -1,0 +1,64 @@
+\documentclass[12pt,letterpaper,spanish,openright]{report}
+\usepackage[activeacute,spanish,mexico]{babel}
+\usepackage[dvips]{graphicx}
+\usepackage{amsmath}
+\usepackage[latin1]{inputenc} 
+\usepackage[absolute]{textpos}
+\usepackage{multirow, array}
+\usepackage{float}
+\usepackage{setspace}
+\oddsidemargin 0cm \headsep 0.5cm
+\textwidth=16cm \textheight=20cm
+\usepackage{eso-pic}
+\usepackage[hidelinks]{hyperref}
+\usepackage{url}
+\usepackage{pgfgantt}
+\usepackage[dvips]{graphicx}
+\DeclareGraphicsExtensions{.bmp,.png,.pdf,.jpg}
+
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{enumerate} 
+\usepackage{listings}
+\graphicspath{{img/}}
+
+\begin{document}
+\input{PORTADA}
+%\input{Agradecimientos}
+%\input{Dedicatoria}
+\input{Resumen}
+\input{Abstract}
+\newpage
+\begin{doublespace}
+\tableofcontents
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Índice de figuras} 
+\listoffigures 
+
+%\cleardoublepage
+%\addcontentsline{toc}{chapter}{Índice de tablas}
+%\listoftables
+
+\chapter{Introducción}
+\pagenumbering{arabic} 
+\input{Introduccion}
+%\chapter{Estado del arte}
+%\input{EstadoArte}
+\chapter{Estado del Arte}
+\input{Teorico}
+\chapter{Estudio de Mercado}
+\input{Analisis}
+\chapter{Marco Teórico}
+\input{Implementacion}
+\chapter{Etapa 1: Sistema de Riego}
+\input{Prueba}
+\newpage
+\input{Conclusiones}
+\end{doublespace}
+%\newpage
+%\bibliographystyle{plain}
+%\nocite{*}
+%\bibliography{Tesis}
+
+\end{document}
