@@ -2,7 +2,7 @@
 \begin{columns}[t]
   \begin{column}{0.46\textwidth}
     \begin{block}{Introducción}\justifying
-      Década a década la cantidad de agua potable en México se ve disminuida debido al desperdicio inconsciente de la misma. Tan solo en Guanajuato, un habitante promedio consume alrededor de 87 litros al día. siendo aproximadamente 50 \% no reutilizable. Entre las actividades donde se presenta un mayor consumo de agua se encuentra el riego de jardines domésticos por lo que, la implementación de un sistema de riego automatizado ayuda a dar un uso más racional del agua, logrando en el proceso una mejora en la condición del jardín.\\
+      Década a década la cantidad de agua potable en México se ve disminuida debido al desperdicio inconsciente de la misma. Tan solo en Guanajuato, un habitante promedio consume alrededor de 87 litros al día, siendo aproximadamente 50 \% no reutilizable. Entre las actividades donde se presenta un mayor consumo de agua se encuentra el riego de jardines domésticos por lo que, la implementación de un sistema de riego automatizado ayuda a dar un uso más racional del agua, logrando en el proceso una mejora en la condición del jardín.\\
       \textbf{Palabras Clave:} \textit{ jardín, sistema de riego, automatización}
      \end{block}
   \end{column}
@@ -33,13 +33,10 @@ Estos riegos son manipulados manualmente por personas sin embargo, el instalar u
 
 \begin{itemize}
 
-\item Se logran altos grados de automatización, basados en el ahorro de mano de obra,
-agua y energía.
+\item Se logran altos grados de automatización, basados en el ahorro de mano de obra, agua y energía.
 \item Los equipos son adaptables a cualquier tipo de terreno.
-
 \item Estos sistemas son adaptables a la rotación de plantas y a riesgos estratégicos.
 \item Permite el crecimiento vertical de las plantas.
-
 
 \end{itemize}
     \end{block}
@@ -85,16 +82,19 @@ agua y energía.
   	\begin{block}{Trabajo a futuro}
   		\begin{minipage}[t]{1\textwidth}
   			\vspace{0pt}
- Se pretende incluir más sensores al prototipo para el monitoreo de las plantas. Reemplazar el arduino por pics para reducir el costo del proyecto y por último, conectar el sistema a internet para que el usuario analice la información.
+ Se pretende mejorar las características de prototipo (sensores, diseño y funcionamiento) para lograr una mejor eficiencia en el desempeño del prototipo y que sea mas amigable para un usuario.
   		\end{minipage}
   	\end{block}
   \end{column}
 
 	     \begin{column}{0.46\linewidth}
-	     	\begin{block}{Conclusiones y trabajo futuro}\justifying
+	     	\begin{block}{Conclusiones}\justifying
 	     		\begin{minipage}[t]{0.96\textwidth}
 	     			\textbf{Conclusiones}:
-	     			Durante la investigación, se obtuvo que, contar con un sistema de riego automático para jardines es viable principalmente en México ya que es uno de los países donde más se consume agua,el sistema de riego automático ayuda a dar un uso más racional del agua y a mejorar la condición del jardín.
+	     			Durante la investigación se obtuvo que:\\
+	     			Una Raspberry tiene muchas mas características que un Arduino y que serán útiles para realizar tareas como conectarse a un servidor web, multitask, administrar mas dispositivos, gestionar bases de datos, etc.
+	     			\\
+	     			Dos sistemas embebidos (Raspberry y Arduino) pueden comunicarse entre si utilizando medios como Wi-Fi o Bluetooth, en este caso para realizar un telemonitoreo garantizando la integridad del sistema critico.
 	     			\\
 
 	     		\end{minipage}
