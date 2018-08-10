@@ -188,6 +188,52 @@ En otras palabras, el sensor de agua sirve para leer un nivel de agua variando a
 	\item	Temperatura de trabajo: 10 - 30ºC
 \end{itemize}
 
+	\section{DHT11}
+	\begin{wrapfigure}[9]{r}{6cm}
+		\centering
+		\includegraphics[width=5 cm]{dth11}
+		\caption{Sensor DTH11}
+		\label{fig:ejemplo}
+	\end{wrapfigure}
+	El DTH11 es un sensor digital de de temperatura y humedad. Tiene la capacidad de obtener la señal de salida calibrada de  temperatura y humedad. Este sensor incluye una medición de humedad de tipo resistivo y un componente de medición de temperatura NTC.
+	Una de las principales ventajas de este sensor es que tiene la capacidad de señal de transmisión a distancia de hasta 20 metros y es de bajo costo. 
+	
+	
+	
+	
+	
+	\subsection{Características}	
+	\begin{itemize}
+		\item Voltaje 3.3v, 5v
+		\item Rango de temperatura: 0-50 centigrados
+		\item Humedad: 20-90 \% HR
+		\item Presición de humedad: 4\% RH
+	\end{itemize}
+	
+	\section{Sensor HC-SR04}
+	\begin{wrapfigure}{r}{0.4\linewidth}
+		\centering
+		\includegraphics[width=0.4\textwidth]{ultrasonico}
+		\caption{Sensor HC-SR04}
+		\label{fig:ul}
+	\end{wrapfigure}
+	El sensor ultrasónico HC-SR04 es un sensor que, sirve principalmente para medir distancias  
+	
+	Los sensores ultrasónicos usan sonar para determinar la distancia de un objeto.
+	
+	Para iniciar la medición el pin Trig, el de la señal de disparo (trigger) debe recibir un pulso de cinco voltios por al menos diez micro segundos, esto indicará al sensor que transmita una ráfaga de ocho ciclos ultrasónicos a 40KHz y espere por la ráfaga reflejada cuando el sensor detecta la señal de ultrasonido en el receptor eniará una señal de en alto (5v) por el pin Echo, esta señal tendrá un retardo proporcional a la distancia, así para obtener la distancia se debe medir el Ton (tiempo en alto en el pin Echo).
+	
+	
+	
+	\subsection{Características}
+	\begin{itemize}
+		\item Voltaje de alimentación: +5v
+		\item Corriente en espera 2mA
+		\item Frecuencia de ultrasonido 40KHz
+		\item Resolución 0.3 cm
+	\end{itemize}
+
+
 \section{Arduino nano}
 \begin{wrapfigure}[6]{l}{6 cm}
 	\centering
@@ -205,4 +251,22 @@ El Arduino nano es una placa pequeña, completa y fácil de usar basada en ATmega3
 	\item \textbf{EEPROM: }1 KB.
 	\item \textbf{Frecuencia del reloj: }16 MHz.
 	\item \textbf{Dimensiones: }0.73'' x 1.70''
+\end{itemize}
+
+\section{HC-06}
+\begin{wrapfigure}[10]{r}{6 cm}
+	\centering
+	\includegraphics[width=5 cm]{hc06}
+	\caption{Modulo bluetooth HC-06}
+\end{wrapfigure}
+Es un modulo que permite la comunicación mediante el protocolo bluetooth (2.4 GHz) y permite la comunicación de voz y datos a través de una red llamada WPAN.\\
+El modulo tiene un rango de covertura de entre 10 y 30 metros, puede trabajar a 5 y 3.3 volts. El modulo consta de 4 pines de conexión, VCC, GND, pin de transmisión (TX) y pin de recepción (RX), lo que permite que se pueda comunicar con otros dispositivos haciendo uso de la comunicación serial o UART.
+\subsection{Características}
+\begin{itemize}
+	\item Compatible con bluetooth v2.
+	\item Voltaje de alimentación: 3.3-6 volts.
+	\item Voltaje de operación: 3.3 volts
+	\item Baud rate ajustable: 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200.
+	\item Tamaño: 1.73'' in x 0.63''
+	\item Corriente de operación: < 40 mA.
 \end{itemize}

@@ -25,7 +25,13 @@
 \BOOKMARK [1][-]{section.4.8}{Modulo RTC DS3231}{chapter.4}% 25
 \BOOKMARK [1][-]{section.4.9}{M\363dulo Sensor de Nivel de Agua}{chapter.4}% 26
 \BOOKMARK [2][-]{subsection.4.9.1}{Caracter\355sticas}{section.4.9}% 27
-\BOOKMARK [1][-]{section.4.10}{Arduino nano}{chapter.4}% 28
-\BOOKMARK [0][-]{chapter.5}{Etapa 1: Sistema de Riego}{}% 29
-\BOOKMARK [1][-]{section.5.1}{Circuito del sistema de riego con raspberry}{chapter.5}% 30
-\BOOKMARK [2][-]{subsection.5.1.1}{Control de los sensores del sistema de riego con Raspberry}{section.5.1}% 31
+\BOOKMARK [1][-]{section.4.10}{DHT11}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.10.1}{Caracter\355sticas}{section.4.10}% 29
+\BOOKMARK [1][-]{section.4.11}{Sensor HC-SR04}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.11.1}{Caracter\355sticas}{section.4.11}% 31
+\BOOKMARK [1][-]{section.4.12}{Arduino nano}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.13}{HC-06}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.13.1}{Caracter\355sticas}{section.4.13}% 34
+\BOOKMARK [0][-]{chapter.5}{Etapa 1: Sistema de Riego}{}% 35
+\BOOKMARK [1][-]{section.5.1}{Circuito del sistema de riego con raspberry}{chapter.5}% 36
+\BOOKMARK [2][-]{subsection.5.1.1}{Control de los sensores del sistema de riego con Raspberry}{section.5.1}% 37

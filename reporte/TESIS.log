@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  10 AUG 2018 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  10 AUG 2018 11:39
 entering extended mode
 **./TESIS.tex
 (TESIS.tex
@@ -827,7 +827,7 @@ LaTeX Info: Redefining \nameref on input line 26.
 
 \c@lstlisting=\count178
  (PORTADA.tex
-<img/upj.png, id=130, 277.035pt x 156.585pt>
+<img/upj.png, id=154, 277.035pt x 156.585pt>
 File: img/upj.png Graphic file (type png)
  <use img/upj.png>
 Package pdftex.def Info: img/upj.png used on input line 4.
@@ -863,14 +863,14 @@ LaTeX Info: Redefining \% on input line 1.
  [4] (TESIS.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
-\tf@lof=\write6
-\openout6 = `TESIS.lof'.
-
  [5
 
 
-]
+])
+\tf@lof=\write6
+\openout6 = `TESIS.lof'.
+
+ [6]
 Cap\'{\i }tulo 1.
 (Introduccion.texpdfTeX warning (ext4): destination with the same identifier (n
 ame{page.1}) has been already used, duplicate ignored
@@ -950,39 +950,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 l.50 \chapter
              {Estudio de Mercado} [5]
 Cap\'{\i }tulo 3.
-(Analisis.tex [6
+(Analisis.texpdfTeX warning (ext4): destination with the same identifier (name{
+page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 	\item \textbf
+                   {Tevatronic}: Esta empresa diseñó un sistema de riego aut...
+[6
 
-] [7] [8] [9]
-<img/grafico.png, id=283, 191.9672pt x 121.20282pt>
+] [7] [8] [9] <img/grafico.png, id=322, 191.9672pt x 121.20282pt>
 File: img/grafico.png Graphic file (type png)
- <use img/grafico.png>
+
+<use img/grafico.png>
 Package pdftex.def Info: img/grafico.png used on input line 63.
 (pdftex.def)             Requested size: 227.62204pt x 143.7227pt.
-)
-[10 <./img/grafico.png>]
+) [10 <./img/grafico.png>]
 Cap\'{\i }tulo 4.
 (Implementacion.tex [11
 
 ]
-<img/aspersion.png, id=294, 161.10187pt x 106.14656pt>
+<img/aspersion.png, id=333, 161.10187pt x 106.14656pt>
 File: img/aspersion.png Graphic file (type png)
  <use img/aspersion.png>
 Package pdftex.def Info: img/aspersion.png used on input line 19.
 (pdftex.def)             Requested size: 170.71652pt x 112.48566pt.
 
-[12 <./img/aspersion.png>] <img/goteo.png, id=301, 225.84375pt x 167.12437pt>
+[12 <./img/aspersion.png>] <img/goteo.png, id=341, 225.84375pt x 167.12437pt>
 File: img/goteo.png Graphic file (type png)
 
 <use img/goteo.png>
 Package pdftex.def Info: img/goteo.png used on input line 43.
 (pdftex.def)             Requested size: 170.71652pt x 126.3375pt.
  [13 <./img/goteo.png>] [14] [15]
-<img/ras.jpg, id=317, 301.125pt x 193.72375pt>
+<img/ras.jpg, id=356, 301.125pt x 193.72375pt>
 File: img/ras.jpg Graphic file (type jpg)
  <use img/ras.jpg>
 Package pdftex.def Info: img/ras.jpg used on input line 79.
 (pdftex.def)             Requested size: 170.71652pt x 109.83247pt.
- [16 <./img/ras.jpg>] [17] <img/sensor1.jpg, id=327, 554.07pt x 521.95pt>
+ [16 <./img/ras.jpg>] [17] <img/sensor1.jpg, id=366, 554.07pt x 521.95pt>
 File: img/sensor1.jpg Graphic file (type jpg)
 
 <use img/sensor1.jpg>
@@ -998,13 +1003,13 @@ Overfull \hbox (14.37302pt too wide) in paragraph at lines 117--117
 []\OT1/cmr/bx/n/17.28 Sensor de hu-me-dad FC28 
  []
 
-<img/sensor2.jpg, id=328, 444.91219pt x 398.99063pt>
+<img/sensor2.jpg, id=367, 444.91219pt x 398.99063pt>
 File: img/sensor2.jpg Graphic file (type jpg)
  <use img/sensor2.jpg>
 Package pdftex.def Info: img/sensor2.jpg used on input line 120.
 (pdftex.def)             Requested size: 142.26378pt x 127.57611pt.
 
-[18 <./img/sensor1.jpg>] <img/sensor3.jpg, id=334, 168.63pt x 120.45pt>
+[18 <./img/sensor1.jpg>] <img/sensor3.jpg, id=374, 168.63pt x 120.45pt>
 File: img/sensor3.jpg Graphic file (type jpg)
 
 <use img/sensor3.jpg>
@@ -1015,66 +1020,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--146
 
  []
 
-[19 <./img/sensor2.jpg>] <img/sensor4.jpg, id=342, 803.0pt x 803.0pt>
+[19 <./img/sensor2.jpg>] <img/sensor4.jpg, id=381, 803.0pt x 803.0pt>
 File: img/sensor4.jpg Graphic file (type jpg)
 
 <use img/sensor4.jpg>
 Package pdftex.def Info: img/sensor4.jpg used on input line 155.
 (pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
  [20 <./img/sensor3.jpg> <./img/sensor4.jpg>]
-<img/sensor6.jpg, id=347, 285.065pt x 285.065pt>
+<img/sensor6.jpg, id=386, 285.065pt x 285.065pt>
 File: img/sensor6.jpg Graphic file (type jpg)
  <use img/sensor6.jpg>
 Package pdftex.def Info: img/sensor6.jpg used on input line 171.
 (pdftex.def)             Requested size: 142.26378pt x 142.26247pt.
- [21 <./img/sensor6.jpg>] <img/nano1.jpg, id=352, 131.5314pt x 88.6512pt>
-File: img/nano1.jpg Graphic file (type jpg)
+ [21 <./img/sensor6.jpg>] <img/dth11.jpg, id=391, 501.875pt x 501.875pt>
+File: img/dth11.jpg Graphic file (type jpg)
 
-<use img/nano1.jpg>
-Package pdftex.def Info: img/nano1.jpg used on input line 194.
+<use img/dth11.jpg>
+Package pdftex.def Info: img/dth11.jpg used on input line 194.
+(pdftex.def)             Requested size: 142.26378pt x 142.26239pt.
+ [22 <./img/dth11.jpg>]
+<img/ultrasonico.jpg, id=397, 499.8675pt x 295.1025pt>
+File: img/ultrasonico.jpg Graphic file (type jpg)
+
+<use img/ultrasonico.jpg>
+Package pdftex.def Info: img/ultrasonico.jpg used on input line 216.
+(pdftex.def)             Requested size: 182.09485pt x 107.50212pt.
+ [23 <./img/ultrasonico.jpg>]
+<img/nano1.jpg, id=402, 131.5314pt x 88.6512pt>
+File: img/nano1.jpg Graphic file (type jpg)
+ <use img/nano1.jpg>
+Package pdftex.def Info: img/nano1.jpg used on input line 240.
 (pdftex.def)             Requested size: 142.26378pt x 95.8947pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[22 <./img/nano1.jpg>]) [23]
+[24 <./img/nano1.jpg>] <img/hc06.jpg, id=409, 602.25pt x 602.25pt>
+File: img/hc06.jpg Graphic file (type jpg)
+
+<use img/hc06.jpg>
+Package pdftex.def Info: img/hc06.jpg used on input line 259.
+(pdftex.def)             Requested size: 142.26378pt x 142.26393pt.
+) [25 <./img/hc06.jpg>]
 Cap\'{\i }tulo 5.
-(Prueba.tex <img/r2.jpg, id=364, 1027.84pt x 770.88pt>
+(Prueba.tex <img/r2.jpg, id=415, 1027.84pt x 770.88pt>
 File: img/r2.jpg Graphic file (type jpg)
  <use img/r2.jpg>
 Package pdftex.def Info: img/r2.jpg used on input line 7.
 (pdftex.def)             Requested size: 227.62204pt x 170.71158pt.
 
-[24
+[26
 
-] <img/r3.jpg, id=370, 256.96pt x 192.72pt>
+] <img/r3.jpg, id=421, 256.96pt x 192.72pt>
 File: img/r3.jpg Graphic file (type jpg)
  <use img/r3.jpg>
 Package pdftex.def Info: img/r3.jpg used on input line 16.
 (pdftex.def)             Requested size: 227.62204pt x 170.72038pt.
 
-<img/r1.jpg, id=372, 1027.84pt x 770.88pt>
+<img/r1.jpg, id=423, 1027.84pt x 770.88pt>
 File: img/r1.jpg Graphic file (type jpg)
  <use img/r1.jpg>
 Package pdftex.def Info: img/r1.jpg used on input line 27.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
- [25 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=379, 1027.84pt x 770.88pt>
+ [27 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=429, 1027.84pt x 770.88pt>
 File: img/r4.jpg Graphic file (type jpg)
  <use img/r4.jpg>
 Package pdftex.def Info: img/r4.jpg used on input line 36.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
 
-[26 <./img/r1.jpg>] <img/r12.jpg, id=384, 256.96pt x 192.72pt>
+[28 <./img/r1.jpg>] <img/r12.jpg, id=434, 256.96pt x 192.72pt>
 File: img/r12.jpg Graphic file (type jpg)
 
 <use img/r12.jpg>
 Package pdftex.def Info: img/r12.jpg used on input line 45.
 (pdftex.def)             Requested size: 256.0748pt x 192.06961pt.
-) [27 <./img/r4.jpg> <./img/r12.jpg>] (Conclusiones.tex
-[28
+) [29 <./img/r4.jpg> <./img/r12.jpg>] (Conclusiones.tex
+[30
 
-]) [29]
+]) [31]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
  (TESIS.aux
@@ -1084,14 +1108,14 @@ LaTeX Info: Redefining \% on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
 Package rerunfilecheck Info: File `TESIS.out' has not changed.
-(rerunfilecheck)             Checksum: ED87A65D66E4149DE3044E464C853AE4;2268.
+(rerunfilecheck)             Checksum: 23A8EAD83DFA0A543A827D51DC5D0934;2664.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
- 20443 strings out of 493320
- 384153 string characters out of 3138945
- 468754 words of memory out of 3000000
- 23464 multiletter control sequences out of 15000+200000
+ 20477 strings out of 493320
+ 384672 string characters out of 3138945
+ 468845 words of memory out of 3000000
+ 23484 multiletter control sequences out of 15000+200000
  9822 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,65p,1053b,689s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1101,9 +1125,9 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on TESIS.pdf (35 pages, 5252222 bytes).
+Output written on TESIS.pdf (38 pages, 5375486 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
 
