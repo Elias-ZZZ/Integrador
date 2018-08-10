@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  9 AUG 2018 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  9 AUG 2018 21:24
 entering extended mode
 **./NeuroPoster.tex
 (NeuroPoster.tex
@@ -1758,11 +1758,12 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24.38089> not available
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.415> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 5.
 
-<../graphics/s2.jpeg, id=14, 782.925pt x 1043.9pt>
-File: ../graphics/s2.jpeg Graphic file (type jpg)
- <use ../graphics/s2.jpeg>
-Package pdftex.def Info: ../graphics/s2.jpeg used on input line 59.
-(pdftex.def)             Requested size: 391.46155pt x 521.94872pt.
+<../graphics/logop.jpeg, id=14, 782.925pt x 782.925pt>
+File: ../graphics/logop.jpeg Graphic file (type jpg)
+
+<use ../graphics/logop.jpeg>
+Package pdftex.def Info: ../graphics/logop.jpeg used on input line 59.
+(pdftex.def)             Requested size: 391.46155pt x 391.46155pt.
 
 Overfull \hbox (22.4913pt too wide) in paragraph at lines 54--63
  [][]  
@@ -1835,10 +1836,10 @@ Package pdftex.def Info: ../graphics/logo.png used on input line 182.
 (pdftex.def)             Requested size: 525.5595pt x 297.84418pt.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <../graphics/logo.png> <../graphics/s2.jpeg> <../graphics/proto1.jpeg> <../gra
-phics/proto2.jpeg> <../graphics/proto4.jpeg> <../graphics/proto5.jpeg> <C:/Prog
-ram Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf> <../graphics/i
-te.png>]
+ <../graphics/logo.png> <../graphics/logop.jpeg> <../graphics/proto1.jpeg> <../
+graphics/proto2.jpeg> <../graphics/proto4.jpeg> <../graphics/proto5.jpeg> <C:/P
+rogram Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf> <../graphic
+s/ite.png>]
 \tf@nav=\write6
 \openout6 = `NeuroPoster.nav'.
 
@@ -1887,7 +1888,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  ) 
 Here is how much of TeX's memory you used:
  20485 strings out of 493320
- 367470 string characters out of 3138945
+ 367485 string characters out of 3138945
  492913 words of memory out of 3000000
  23466 multiletter control sequences out of 15000+200000
  55679 words of font info for 47 fonts, out of 3000000 for 9000
@@ -1898,7 +1899,7 @@ iKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on NeuroPoster.pdf (1 page, 826311 bytes).
+Output written on NeuroPoster.pdf (1 page, 608240 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)

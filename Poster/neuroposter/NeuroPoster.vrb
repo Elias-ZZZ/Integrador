@@ -56,7 +56,7 @@ Estos riegos son manipulados manualmente por personas sin embargo, el instalar u
 	  			Es un sistema de riego automático que tomará decisiones para regar, con base a los datos que obtenga de los sensores, comparándolos a su vez con la información que se encuentre en la base de datos para así tomar la decisión de regar o no regar. La información de los sensores se guarda en la base de datos para tener registro de los mismos y mostrársela al usuario.
 	  			\begin{figure}[H]
 	  				\centering
-	  				\includegraphics[scale=0.5]{../graphics/s2}
+	  				\includegraphics[scale=0.5]{../graphics/logop}
 	  			\end{figure}
 
 			\end{minipage}
