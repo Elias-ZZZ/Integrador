@@ -53,37 +53,24 @@ agua y energía.
 
 
 	  \begin{column}{0.46\textwidth}
-	  	\begin{block}{Estudio de mercado}
+	  	\begin{block}{Descripción del proyecto}
 	  		\begin{minipage}[t]{1\linewidth}
 	  			\vspace{0pt}
-Potencial de mercado:
+	  			Es un sistema de riego automático que tomará decisiones para regar, con base a los datos que obtenga de los sensores, comparándolos a su vez con la información que se encuentre en la base de datos para así tomar la decisión de regar o no regar. La información de los sensores se guarda en la base de datos para tener registro de los mismos y mostrársela al usuario.
+	  			\begin{figure}[H]
+	  				\centering
+	  				\includegraphics[scale=0.5]{../graphics/s2}
+	  			\end{figure}
 
-\begin{itemize}
-\item 20,144 casas habitadas con jardín
-\item Tamaño de la muestra: 96
-\item Margen de error: 10\%
-\item Fiabilidad: 95\% \\
-Estos fueron los datos que se obtuvieron con la encuesta aplicada a un grupo de personas, donde también se interpretaron otros datos como los siguientes.
-\item Entre los datos se obtuvieron en la aplicación de la encuesta, se observó que un 94\%, le interesaría tener un sistema de riego automático en su hogar.
-\end{itemize}
-\begin{figure}[H]
-	\centering
-	\includegraphics[scale=0.7]{../graphics/Imagen1.png}
-\end{figure}
-
-\end{minipage}
+			\end{minipage}
 	  	\end{block}
 	  \end{column}
 
 	 \begin{column}{0.46\linewidth}
-	 	\begin{block}{Descripción del proyecto}
+	 	\begin{block}{Resultados y evidencias}
 
 
-Es un sistema de riego automático que tomará decisiones para regar, con base a los datos que obtenga de los sensores, comparándolos a su vez con la información que se encuentre en la base de datos para así tomar la decisión de regar o no regar. La información de los sensores se guarda en la base de datos para tener registro de los mismos y mostrársela al usuario.
-\begin{figure}[H]
-	\centering
-	\includegraphics[scale=0.5]{../graphics/s2}
-\end{figure}
+
 
 	 	\end{block}
 	 \end{column}
