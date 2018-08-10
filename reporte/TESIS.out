@@ -23,9 +23,9 @@
 \BOOKMARK [1][-]{section.4.6}{Sensor de humedad FC28}{chapter.4}% 23
 \BOOKMARK [1][-]{section.4.7}{Sensor de flujo YF-S201}{chapter.4}% 24
 \BOOKMARK [1][-]{section.4.8}{Modulo RTC DS3231}{chapter.4}% 25
-\BOOKMARK [1][-]{section.4.9}{Fotoresistencia}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.10}{M\363dulo Sensor de Nivel de Agua}{chapter.4}% 27
-\BOOKMARK [2][-]{subsection.4.10.1}{Caracter\355sticas}{section.4.10}% 28
+\BOOKMARK [1][-]{section.4.9}{M\363dulo Sensor de Nivel de Agua}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.9.1}{Caracter\355sticas}{section.4.9}% 27
+\BOOKMARK [1][-]{section.4.10}{Arduino nano}{chapter.4}% 28
 \BOOKMARK [0][-]{chapter.5}{Etapa 1: Sistema de Riego}{}% 29
 \BOOKMARK [1][-]{section.5.1}{Circuito del sistema de riego con raspberry}{chapter.5}% 30
 \BOOKMARK [2][-]{subsection.5.1.1}{Control de los sensores del sistema de riego con Raspberry}{section.5.1}% 31

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  5 AUG 2018 14:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  10 AUG 2018 10:43
 entering extended mode
 **./TESIS.tex
 (TESIS.tex
@@ -1022,21 +1022,25 @@ File: img/sensor4.jpg Graphic file (type jpg)
 Package pdftex.def Info: img/sensor4.jpg used on input line 155.
 (pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
  [20 <./img/sensor3.jpg> <./img/sensor4.jpg>]
-<img/sensor5.jpg, id=347, 557.08125pt x 302.12875pt>
-File: img/sensor5.jpg Graphic file (type jpg)
- <use img/sensor5.jpg>
-Package pdftex.def Info: img/sensor5.jpg used on input line 170.
-(pdftex.def)             Requested size: 142.26378pt x 77.15475pt.
-
-[21 <./img/sensor5.jpg>] <img/sensor6.jpg, id=352, 285.065pt x 285.065pt>
+<img/sensor6.jpg, id=347, 285.065pt x 285.065pt>
 File: img/sensor6.jpg Graphic file (type jpg)
-
-<use img/sensor6.jpg>
-Package pdftex.def Info: img/sensor6.jpg used on input line 183.
+ <use img/sensor6.jpg>
+Package pdftex.def Info: img/sensor6.jpg used on input line 171.
 (pdftex.def)             Requested size: 142.26378pt x 142.26247pt.
- [22 <./img/sensor6.jpg>]) [23]
+ [21 <./img/sensor6.jpg>] <img/nano1.jpg, id=352, 131.5314pt x 88.6512pt>
+File: img/nano1.jpg Graphic file (type jpg)
+
+<use img/nano1.jpg>
+Package pdftex.def Info: img/nano1.jpg used on input line 194.
+(pdftex.def)             Requested size: 142.26378pt x 95.8947pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+[22 <./img/nano1.jpg>]) [23]
 Cap\'{\i }tulo 5.
-(Prueba.tex <img/r2.jpg, id=363, 1027.84pt x 770.88pt>
+(Prueba.tex <img/r2.jpg, id=364, 1027.84pt x 770.88pt>
 File: img/r2.jpg Graphic file (type jpg)
  <use img/r2.jpg>
 Package pdftex.def Info: img/r2.jpg used on input line 7.
@@ -1044,24 +1048,24 @@ Package pdftex.def Info: img/r2.jpg used on input line 7.
 
 [24
 
-] <img/r3.jpg, id=369, 256.96pt x 192.72pt>
+] <img/r3.jpg, id=370, 256.96pt x 192.72pt>
 File: img/r3.jpg Graphic file (type jpg)
  <use img/r3.jpg>
 Package pdftex.def Info: img/r3.jpg used on input line 16.
 (pdftex.def)             Requested size: 227.62204pt x 170.72038pt.
 
-<img/r1.jpg, id=371, 1027.84pt x 770.88pt>
+<img/r1.jpg, id=372, 1027.84pt x 770.88pt>
 File: img/r1.jpg Graphic file (type jpg)
  <use img/r1.jpg>
 Package pdftex.def Info: img/r1.jpg used on input line 27.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
- [25 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=378, 1027.84pt x 770.88pt>
+ [25 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=379, 1027.84pt x 770.88pt>
 File: img/r4.jpg Graphic file (type jpg)
  <use img/r4.jpg>
 Package pdftex.def Info: img/r4.jpg used on input line 36.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
 
-[26 <./img/r1.jpg>] <img/r12.jpg, id=383, 256.96pt x 192.72pt>
+[26 <./img/r1.jpg>] <img/r12.jpg, id=384, 256.96pt x 192.72pt>
 File: img/r12.jpg Graphic file (type jpg)
 
 <use img/r12.jpg>
@@ -1080,14 +1084,14 @@ LaTeX Info: Redefining \% on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
 Package rerunfilecheck Info: File `TESIS.out' has not changed.
-(rerunfilecheck)             Checksum: 895717640C52503344543919397174F0;2273.
+(rerunfilecheck)             Checksum: ED87A65D66E4149DE3044E464C853AE4;2268.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
  20443 strings out of 493320
- 384158 string characters out of 3138945
- 468796 words of memory out of 3000000
- 23465 multiletter control sequences out of 15000+200000
+ 384153 string characters out of 3138945
+ 468754 words of memory out of 3000000
+ 23464 multiletter control sequences out of 15000+200000
  9822 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,65p,1053b,689s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1097,9 +1101,9 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on TESIS.pdf (35 pages, 5229502 bytes).
+Output written on TESIS.pdf (35 pages, 5252222 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
  341 words of extra memory for PDF output out of 10000 (max. 10000000)
 

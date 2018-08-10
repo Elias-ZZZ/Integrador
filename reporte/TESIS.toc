@@ -29,9 +29,10 @@
 \contentsline {subsubsection}{Caracter\IeC {\'\i }sticas}{19}{section*.9}
 \contentsline {section}{\numberline {4.7}Sensor de flujo YF-S201}{19}{section.4.7}
 \contentsline {section}{\numberline {4.8}Modulo RTC DS3231}{20}{section.4.8}
-\contentsline {section}{\numberline {4.9}Fotoresistencia}{21}{section.4.9}
-\contentsline {section}{\numberline {4.10}M\'odulo Sensor de Nivel de Agua}{22}{section.4.10}
-\contentsline {subsection}{\numberline {4.10.1}Caracter\IeC {\'\i }sticas}{22}{subsection.4.10.1}
+\contentsline {section}{\numberline {4.9}M\'odulo Sensor de Nivel de Agua}{21}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}Caracter\IeC {\'\i }sticas}{22}{subsection.4.9.1}
+\contentsline {section}{\numberline {4.10}Arduino nano}{22}{section.4.10}
+\contentsline {subsubsection}{Caracter\IeC {\'\i }sticas}{22}{section*.10}
 \contentsline {chapter}{\numberline {5}Etapa 1: Sistema de Riego}{24}{chapter.5}
 \contentsline {section}{\numberline {5.1}Circuito del sistema de riego con raspberry}{24}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Control de los sensores del sistema de riego con Raspberry}{26}{subsection.5.1.1}

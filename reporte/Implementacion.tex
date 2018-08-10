@@ -164,18 +164,6 @@ El RTC mantiene la información de los segundos, minutos, horas, día, fecha, mes 
 Una referencia de voltaje compensada por temperatura de precisión y un circuito comparador monitorean el estado del VCC para detectar fallas de energía, proporcionar una salida de reajuste y cambiar automáticamente a la fuente de reserva cuando sea necesario.
 
 
-\section{Fotoresistencia}
-\begin{wrapfigure}[7]{l}{6cm}
-	\begin{center}
-		\includegraphics[width=5cm]{sensor5.jpg}
-	\end{center}
-	\caption{Fotoresistencia}
-	\label{s5}
-\end{wrapfigure}
-El LDR (Light Dependent Resistor) o fotoresistencia es una resistencia que varía su resistencia en función de la luz que incide sobre su superficie. Cuanto mayor sea la intensidad de la luz que incide en la superficie del LDR menor será su resistencia y cuanto menos luz incida mayor será su resistencia.
-Cuando la LDR no está expuesta a radiaciones luminosas los electrones están firmemente unidos en los átomos que la conforman pero cuando sobre ella inciden radiaciones luminosas esta energía libera electrones con lo cual el material se hace más conductor, y de esta manera disminuye su resistencia. Las resistencias LDR solamente reducen su resistencia con una radiación luminosa situada dentro de una determinada banda de longitudes de onda. Las construidas con sulfuro de cadmio son sensibles a todas las radiaciones luminosas visibles, las construidas con sulfuro de plomo solamente son sensibles a las radiaciones infrarrojas.
-
-
 
 \section{Módulo Sensor de Nivel de Agua}
 \begin{wrapfigure}[11]{r}{6cm}
@@ -194,8 +182,27 @@ En otras palabras, el sensor de agua sirve para leer un nivel de agua variando a
 \subsection{Características}
 \begin{itemize}
 	\item Alimentación: 3 - 5V
-\item	Consumo: menor que 20mA
-\item 	Deteción analógica
-\item 	Area de detección 40 x 16mm
-\item	Temperatura de trabajo: 10 - 30ºC
+	\item	Consumo: menor que 20mA
+	\item 	Deteción analógica
+	\item 	Area de detección 40 x 16mm
+	\item	Temperatura de trabajo: 10 - 30ºC
+\end{itemize}
+
+\section{Arduino nano}
+\begin{wrapfigure}[6]{l}{6 cm}
+	\centering
+	\includegraphics[width=5cm]{nano1}
+	\caption{Arduino nano.}
+\end{wrapfigure}
+El Arduino nano es una placa pequeña, completa y fácil de usar basada en ATmega328P, tiene las mismas capacidades que un Arduino uno pero a diferencia de este no posee un jack de alimentación DC y utiliza un cable USB Mini-1B para funcionar.\\
+\subsubsection{Características}
+\begin{itemize}
+	\item \textbf{Microcontrolador:} ATmega328.
+	\item \textbf{Voltaje de operación: }5 volts.
+	\item \textbf{Voltaje de alimentación: }7-12 volts.
+	\item \textbf{I/O digitales: }14 (6 PWM).
+	\item \textbf{Memoria flash: }32 KB.
+	\item \textbf{EEPROM: }1 KB.
+	\item \textbf{Frecuencia del reloj: }16 MHz.
+	\item \textbf{Dimensiones: }0.73'' x 1.70''
 \end{itemize}
