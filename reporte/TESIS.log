@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  10 AUG 2018 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2018.5.16)  10 AUG 2018 14:40
 entering extended mode
 **./TESIS.tex
 (TESIS.tex
@@ -1067,7 +1067,7 @@ Cap\'{\i }tulo 5.
 (Prueba.tex <img/r2.jpg, id=415, 1027.84pt x 770.88pt>
 File: img/r2.jpg Graphic file (type jpg)
  <use img/r2.jpg>
-Package pdftex.def Info: img/r2.jpg used on input line 7.
+Package pdftex.def Info: img/r2.jpg used on input line 8.
 (pdftex.def)             Requested size: 227.62204pt x 170.71158pt.
 
 [26
@@ -1075,25 +1075,25 @@ Package pdftex.def Info: img/r2.jpg used on input line 7.
 ] <img/r3.jpg, id=421, 256.96pt x 192.72pt>
 File: img/r3.jpg Graphic file (type jpg)
  <use img/r3.jpg>
-Package pdftex.def Info: img/r3.jpg used on input line 16.
+Package pdftex.def Info: img/r3.jpg used on input line 17.
 (pdftex.def)             Requested size: 227.62204pt x 170.72038pt.
 
 <img/r1.jpg, id=423, 1027.84pt x 770.88pt>
 File: img/r1.jpg Graphic file (type jpg)
  <use img/r1.jpg>
-Package pdftex.def Info: img/r1.jpg used on input line 27.
+Package pdftex.def Info: img/r1.jpg used on input line 28.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
- [27 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=429, 1027.84pt x 770.88pt>
+ [27 <./img/r2.jpg> <./img/r3.jpg>] <img/r4.jpg, id=430, 1027.84pt x 770.88pt>
 File: img/r4.jpg Graphic file (type jpg)
  <use img/r4.jpg>
-Package pdftex.def Info: img/r4.jpg used on input line 36.
+Package pdftex.def Info: img/r4.jpg used on input line 37.
 (pdftex.def)             Requested size: 256.0748pt x 192.04906pt.
 
-[28 <./img/r1.jpg>] <img/r12.jpg, id=434, 256.96pt x 192.72pt>
+[28 <./img/r1.jpg>] <img/r12.jpg, id=435, 256.96pt x 192.72pt>
 File: img/r12.jpg Graphic file (type jpg)
 
 <use img/r12.jpg>
-Package pdftex.def Info: img/r12.jpg used on input line 45.
+Package pdftex.def Info: img/r12.jpg used on input line 46.
 (pdftex.def)             Requested size: 256.0748pt x 192.06961pt.
 ) [29 <./img/r4.jpg> <./img/r12.jpg>] (Conclusiones.tex
 [30
@@ -1108,12 +1108,12 @@ LaTeX Info: Redefining \% on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
 Package rerunfilecheck Info: File `TESIS.out' has not changed.
-(rerunfilecheck)             Checksum: 23A8EAD83DFA0A543A827D51DC5D0934;2664.
+(rerunfilecheck)             Checksum: 34358B0086ECD36D564588DDE551F74D;2626.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
- 20477 strings out of 493320
- 384672 string characters out of 3138945
+ 20478 strings out of 493320
+ 384683 string characters out of 3138945
  468845 words of memory out of 3000000
  23484 multiletter control sequences out of 15000+200000
  9822 words of font info for 35 fonts, out of 3000000 for 9000
@@ -1125,9 +1125,9 @@ iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on TESIS.pdf (38 pages, 5375486 bytes).
+Output written on TESIS.pdf (38 pages, 5375568 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
  404 words of extra memory for PDF output out of 10000 (max. 10000000)
 
