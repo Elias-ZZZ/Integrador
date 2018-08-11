@@ -1,4 +1,4 @@
-\select@language {spanish}
+\babel@toc {spanish}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -17,8 +17,12 @@
 \contentsline {figure}{\numberline {4.11}{\ignorespaces Arduino nano.}}{24}{figure.4.11}
 \contentsline {figure}{\numberline {4.12}{\ignorespaces Modulo bluetooth HC-06}}{25}{figure.4.12}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Prueba 1}}{27}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Prueba}}{27}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Prueba 1}}{28}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Prueba 2}}{29}{figure.5.4}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Prueba 3}}{29}{figure.5.5}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Desarrollo del script para el sensor de flujo de agua.}}{27}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Prueba de funcionamiento del script del sensor de flujo de agua.}}{27}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Primera versi\'on del prototipo de sistema de riego}}{28}{figure.5.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados a la Raspberry.}}}{28}{figure.5.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Funcionamiento del script maestro.}}}{28}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Vista del prototipo.}}{30}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Exterior del prototipo.}}}{30}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del prototipo.}}}{30}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Interfaz de usuario del prototipo.}}{30}{figure.5.5}
