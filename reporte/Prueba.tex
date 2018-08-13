@@ -3,7 +3,7 @@ En este cap\'itulo se describen las pruebas realizadas al prototipo del sistema 
 \section{Pruebas}
 
 \subsection{Control individual de los sensores del sistema de riego con Raspberry}
-Inicialmente, para comprobar el funcionamiento de los sensores en Raspberry, cada uno de ellos se prob\'o individualmente en la tarjeta. Para realizar lo anterior, a cada sensor se le asignaron unos pines de uso, de forma que en un futuro pudieran integrarse todos juntos sin problema, y se les dise\~{n} un peque\~{n}o script sin interfaz gr\'afica que se encargara de obtener y mostrar los datos del mismo.\\\\
+Inicialmente, para comprobar el funcionamiento de los sensores en Raspberry, cada uno de ellos se prob\'o individualmente en la tarjeta. Para realizar lo anterior, a cada sensor se le asignaron unos pines de uso, de forma que en un futuro pudieran integrarse todos juntos sin problema, y se les dise\~{n}o un peque\~{n}o script sin interfaz gr\'afica que se encargara de obtener y mostrar los datos del mismo.\\\\
 En la figura \ref{r1}, se puede observar el proceso de desarollo de uno de los scripts, todo est\'o dentro de la misma Raspberry.
 \begin{figure}[H]
 \begin{center}
@@ -22,7 +22,7 @@ El resultado de ejecutar el script anterior, es mostrado en la figura \ref{r4}. 
 \end{figure} 
 
 \subsection{Control grupal de los sensores del sistema de riego con Raspberry}
-En la siguiente etapa de desarrollo, todos los sensores fueron integrados a la Raspberry. Con base en lo anterior, se realizaron peque\~{n}as pruebas en las que, de uno en uno, cada sensor se acoplaba en su espacio correspondiente en la tarjeta y su codig\'o de funcionamiento era a\~{n}adido a un script maestro.\\ 
+En la siguiente etapa de desarrollo, todos los sensores fueron integrados a la Raspberry. Con base en lo anterior, se realizaron peque\~{n}as pruebas en las que, de uno en uno, cada sensor se acoplaba en su espacio correspondiente en la tarjeta y su c\'odigo de funcionamiento era a\~{n}adido a un script maestro.\\ 
 El dise\~{n}o inicial de la Raspberry con todos los sensores integrados puede ser observado en la imagen \ref{todo} (a), mientras que la primera versi\'on del script maestro se puede visualizar en la imagen \ref{todo} (b). 
  
 \begin{figure}[H]
@@ -75,8 +75,8 @@ Otra forma de detener el flujo de agua, es detectando un nivel de agua bajo pare
 \end{comment}
 
 \section{Resultados}
-El prototipo del sistema de riego supero satisfactoriamente las pruebas a las que fue sometido, demostrando as\'i, su eficiencia en cuanto a recopilaci\'on e interpretaci\'on de datos se refiere.\\ 
-Como resultado de las pruebas, el prototipo sufrio constantes modificaciones de dise\~{n}o tanto en la parte hardware como en la parte de software. En lo que respecta al hardware, todo el sistema critico fue aislado en una caja, con correspondientes adaptaciones a la misma, y montado sobre un tanque de agua con el resto de los sensores ambientales a su alrededor, tal y como se ve en la imagen 5.4.%\ref{hardwareda}. 
+El prototipo del sistema de riego s\'upero satisfactoriamente las pruebas a las que fue sometido, demostrando as\'i, su eficiencia en cuanto a recopilaci\'on e interpretaci\'on de datos se refiere.\\ 
+Como resultado de las pruebas, el prototipo sufrio constantes modificaciones de dise\~{n}o tanto en la parte hardware como en la parte de software. En lo que respecta al hardware, todo el sistema crítico fue aislado en una caja, con correspondientes adaptaciones a la misma, y montado sobre un tanque de agua con el resto de los sensores ambientales a su alrededor, tal y como se ve en la imagen 5.4.%\ref{hardwareda}. 
 
 \begin{figure}[H]
 	\begin{center}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.8)  10 AUG 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.8)  12 AUG 2018 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,10 +1144,10 @@ Package rerunfilecheck Info: File `TESIS.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 20605 strings out of 492982
- 388096 string characters out of 6134897
+ 20606 strings out of 492982
+ 388104 string characters out of 6134897
  471160 words of memory out of 5000000
- 23624 multiletter control sequences out of 15000+600000
+ 23625 multiletter control sequences out of 15000+600000
  9822 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,65p,1054b,693s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1158,7 +1158,7 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on TESIS.pdf (40 pages, 8008263 bytes).
+Output written on TESIS.pdf (40 pages, 8008309 bytes).
 PDF statistics:
  541 PDF objects out of 1000 (max. 8388607)
  464 compressed objects within 5 object streams
