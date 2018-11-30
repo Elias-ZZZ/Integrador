@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.29)  29 NOV 2018 19:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.29)  29 NOV 2018 19:56
 entering extended mode
 **./TESIS.tex
 (TESIS.tex
@@ -1213,7 +1213,7 @@ Package pdftex.def Info: img/hardwarea.jpg  used on input line 84.
 File: img/software.jpg Graphic file (type jpg)
 <use img/software.jpg>
 Package pdftex.def Info: img/software.jpg  used on input line 94.
-(pdftex.def)             Requested size: 199.16928pt x 149.33072pt.
+(pdftex.def)             Requested size: 227.62204pt x 170.691pt.
  [32 <./img/hardwarec.jpg> <./img/hardwarea.jpg> <./img/software.jpg>]
 <img/proto3.jpg, id=501, 4175.6pt x 3131.7pt>
 File: img/proto3.jpg Graphic file (type jpg)
@@ -1229,11 +1229,11 @@ Package pdftex.def Info: img/proto4.jpg  used on input line 105.
 File: img/Interface.jpg Graphic file (type jpg)
 <use img/Interface.jpg>
 Package pdftex.def Info: img/Interface.jpg  used on input line 114.
-(pdftex.def)             Requested size: 199.16928pt x 121.99245pt.
-) [33 <./img/proto3.jpg> <./img/proto4.jpg> <./img/Interface.jpg>]
-(Conclusiones.tex [34
+(pdftex.def)             Requested size: 369.88582pt x 226.56169pt.
+) [33 <./img/proto3.jpg> <./img/proto4.jpg>] [34 <./img/Interface.jpg>]
+(Conclusiones.tex [35
 
-]) [35]
+]) [36]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (TESIS.aux
@@ -1247,8 +1247,8 @@ Package rerunfilecheck Info: File `TESIS.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 20626 strings out of 492970
- 395020 string characters out of 3126593
+ 20627 strings out of 492970
+ 395027 string characters out of 3126593
  478134 words of memory out of 3000000
  23938 multiletter control sequences out of 15000+200000
  9822 words of font info for 35 fonts, out of 3000000 for 9000
@@ -1261,9 +1261,9 @@ fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aide_/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aide_/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/aide
 _/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on TESIS.pdf (43 pages, 14647017 bytes).
+Output written on TESIS.pdf (44 pages, 14647636 bytes).
 PDF statistics:
- 575 PDF objects out of 1000 (max. 8388607)
- 134 named destinations out of 1000 (max. 500000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 135 named destinations out of 1000 (max. 500000)
  480 words of extra memory for PDF output out of 10000 (max. 10000000)
 
