@@ -22,23 +22,25 @@
 \BOOKMARK [1][-]{section.4.5}{Sensor de temperatura DS18B20}{chapter.4}% 22
 \BOOKMARK [1][-]{section.4.6}{Sensor de humedad FC28}{chapter.4}% 23
 \BOOKMARK [1][-]{section.4.7}{Sensor de flujo YF-S201}{chapter.4}% 24
-\BOOKMARK [1][-]{section.4.8}{Modulo RTC DS3231}{chapter.4}% 25
-\BOOKMARK [1][-]{section.4.9}{DHT11}{chapter.4}% 26
-\BOOKMARK [2][-]{subsection.4.9.1}{Caracter\355sticas}{section.4.9}% 27
-\BOOKMARK [1][-]{section.4.10}{Sensor HC-SR04}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.8}{Electrovalvula}{chapter.4}% 25
+\BOOKMARK [2][-]{subsection.4.8.1}{Electrovalvula de acci\363n directa}{section.4.8}% 26
+\BOOKMARK [1][-]{section.4.9}{Modulo RTC DS3231}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.10}{DHT11}{chapter.4}% 28
 \BOOKMARK [2][-]{subsection.4.10.1}{Caracter\355sticas}{section.4.10}% 29
-\BOOKMARK [1][-]{section.4.11}{Arduino nano}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.12}{HC-06}{chapter.4}% 31
-\BOOKMARK [2][-]{subsection.4.12.1}{Caracter\355sticas}{section.4.12}% 32
-\BOOKMARK [1][-]{section.4.13}{Base de datos \(MySQL\)}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.13.1}{Definici\363n}{section.4.13}% 34
-\BOOKMARK [2][-]{subsection.4.13.2}{MySQL}{section.4.13}% 35
-\BOOKMARK [2][-]{subsection.4.13.3}{Caracter\355sticas principales}{section.4.13}% 36
-\BOOKMARK [2][-]{subsection.4.13.4}{Ventajas de MySQL}{section.4.13}% 37
-\BOOKMARK [1][-]{section.4.14}{Conexi\363n remota}{chapter.4}% 38
-\BOOKMARK [0][-]{chapter.5}{Pruebas y Resultados}{}% 39
-\BOOKMARK [1][-]{section.5.1}{Pruebas}{chapter.5}% 40
-\BOOKMARK [2][-]{subsection.5.1.1}{Control individual de los sensores del sistema de riego con Raspberry}{section.5.1}% 41
-\BOOKMARK [2][-]{subsection.5.1.2}{Control grupal de los sensores del sistema de riego con Raspberry}{section.5.1}% 42
-\BOOKMARK [2][-]{subsection.5.1.3}{Interpretaci\363n de los datos obtenidos de los sensores del sistema de riego con Raspberry}{section.5.1}% 43
-\BOOKMARK [1][-]{section.5.2}{Resultados}{chapter.5}% 44
+\BOOKMARK [1][-]{section.4.11}{Sensor HC-SR04}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.11.1}{Caracter\355sticas}{section.4.11}% 31
+\BOOKMARK [1][-]{section.4.12}{Arduino nano}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.13}{HC-06}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.13.1}{Caracter\355sticas}{section.4.13}% 34
+\BOOKMARK [1][-]{section.4.14}{Base de datos \(MySQL\)}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.14.1}{Definici\363n}{section.4.14}% 36
+\BOOKMARK [2][-]{subsection.4.14.2}{MySQL}{section.4.14}% 37
+\BOOKMARK [2][-]{subsection.4.14.3}{Caracter\355sticas principales}{section.4.14}% 38
+\BOOKMARK [2][-]{subsection.4.14.4}{Ventajas de MySQL}{section.4.14}% 39
+\BOOKMARK [1][-]{section.4.15}{Conexi\363n remota}{chapter.4}% 40
+\BOOKMARK [0][-]{chapter.5}{Pruebas y Resultados}{}% 41
+\BOOKMARK [1][-]{section.5.1}{Pruebas}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.1.1}{Control individual de los sensores del sistema de riego con Raspberry}{section.5.1}% 43
+\BOOKMARK [2][-]{subsection.5.1.2}{Control grupal de los sensores del sistema de riego con Raspberry}{section.5.1}% 44
+\BOOKMARK [2][-]{subsection.5.1.3}{Interpretaci\363n de los datos obtenidos de los sensores del sistema de riego con Raspberry}{section.5.1}% 45
+\BOOKMARK [1][-]{section.5.2}{Resultados}{chapter.5}% 46

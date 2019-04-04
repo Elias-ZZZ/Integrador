@@ -1,4 +1,4 @@
-\babel@toc {spanish}{}
+\select@language {spanish}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -10,22 +10,23 @@
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Sensor de temperatura DS18B20}}{18}{figure.4.4}
 \contentsline {figure}{\numberline {4.5}{\ignorespaces Sensor de humedad FC28}}{19}{figure.4.5}
 \contentsline {figure}{\numberline {4.6}{\ignorespaces Sensor de flujo YF-S201}}{20}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Modulo RTC DS3231}}{20}{figure.4.7}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Sensor DTH11}}{21}{figure.4.8}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Sensor HC-SR04}}{22}{figure.4.9}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Arduino nano.}}{23}{figure.4.10}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Modulo bluetooth HC-06}}{24}{figure.4.11}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Electrovalvula}}{21}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Modulo RTC DS3231}}{21}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sensor DTH11}}{22}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sensor HC-SR04}}{23}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Arduino nano.}}{24}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Modulo bluetooth HC-06}}{25}{figure.4.12}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Desarrollo del script para el sensor de flujo de agua.}}{29}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Prueba de funcionamiento del script del sensor de flujo de agua.}}{29}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Primera versi\'on del prototipo de sistema de riego}}{30}{figure.5.3}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados a la Raspberry.}}}{30}{figure.5.3}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Funcionamiento del script maestro.}}}{30}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Vista del prototipo.}}{32}{figure.5.4}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Exterior del prototipo.}}}{32}{figure.5.4}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del prototipo.}}}{32}{figure.5.4}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Interfaz de usuario del prototipo.}}{32}{figure.5.5}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Prototipo funcionando}}{33}{figure.5.6}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados}}}{33}{figure.5.6}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sistema de riego encendido}}}{33}{figure.5.6}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Reestructuraci\'on de Interfaz gr\'afica.}}{34}{figure.5.7}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Desarrollo del script para el sensor de flujo de agua.}}{30}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Prueba de funcionamiento del script del sensor de flujo de agua.}}{30}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Primera versi\'on del prototipo de sistema de riego}}{31}{figure.5.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados a la Raspberry.}}}{31}{figure.5.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Funcionamiento del script maestro.}}}{31}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Vista del prototipo.}}{33}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Exterior del prototipo.}}}{33}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del prototipo.}}}{33}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Interfaz de usuario del prototipo.}}{33}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Prototipo funcionando}}{34}{figure.5.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados}}}{34}{figure.5.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sistema de riego encendido}}}{34}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Reestructuraci\'on de Interfaz gr\'afica.}}{35}{figure.5.7}
