@@ -1,6 +1,12 @@
 En este capitulo se describen las pruebas realizadas a los distintos prototipos del sistema de riego para verificar su funcionamiento, as\'i como los resultados obtenidos de las mismas.
 
 \section{Pruebas}
+\subsection{Control grupal de los sensores del sistema de riego con Arduino}
+La primer prueba fue comprobar dos sensores, el sensor de humedad de tierra y la sonda de temperatura de agua utilizando un Arduino uno.
+
+\subsection{Simulaci\'on del sistema de riego basado en los sensores}
+Una vez comprobado el funcionamiento de los dos sensores, se implemento un relevador y una bomba de agua al Arduino. Tambi\'en se construyo una maqueta con un sistema de mangueras para ``simular'' riego por goteo utilizando los sensores para el control del mismo.
+
 
 \subsection{Control individual de los sensores del sistema de riego con Raspberry}
 Inicialmente, para comprobar el funcionamiento de los sensores en Raspberry, cada uno de ellos se prob\'o individualmente en la tarjeta. Para realizar lo anterior, a cada sensor se le asignaron unos pines de uso, de forma que en un futuro pudieran integrarse todos juntos sin problema, y se les dise\~{n}o un peque\~{n}o script sin interfaz gr\'afica que se encargara de obtener y mostrar los datos del mismo.\\\\
@@ -75,6 +81,10 @@ Otra forma de detener el flujo de agua, es detectando un nivel de agua bajo pare
 \end{comment}
 
 \section{Resultados}
+\subsection{Prototipo en Arduino}
+Arduino puede se una herramienienta muy buena y aunque las pruebas fueron satisfactorias, Arduino presenta grandes desventajas respecto a otra placa, exactamente Raspberry ya que al tener su propio sistema operativo se pueden implementar carectiristicas que en un arduino no y que seran utiles para el futuro del proyecto.
+\subsection{Prototipo en Raspberry}
+
 El prototipo del sistema de riego super\'o satisfactoriamente las pruebas a las que fue sometido, demostrando as\'i, su eficiencia en cuanto a recopilaci\'on e interpretaci\'on de datos se refiere.\\ 
 Como resultado de las pruebas, el prototipo sufri\'o constantes modificaciones de dise\~{n}o tanto en la parte hardware como en la parte de software. En lo que respecta al hardware, todo el sistema cr\'itico fue aislado en una caja, con correspondientes adaptaciones a la misma, y montado sobre un tanque de agua con el resto de los sensores ambientales a su alrededor, tal y como se ve en la imagen 5.4.%\ref{hardwareda}. 
 
