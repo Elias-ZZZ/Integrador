@@ -42,7 +42,12 @@ El dise\~{n}o inicial de la Raspberry con todos los sensores integrados puede se
 
 
 \subsection{Interpretaci\'{o}n de los datos obtenidos de los sensores del sistema de riego con Raspberry}
-En las \'ultimas fases de desarrollo, con la Raspberry censando de manera correcta las variables del entorno, se empez\'o a desarrollar un c\'odigo para la interpretaci\'on de los datos obtenidos. Por ejemplo: si la humedad en el suelo es muy baja el riego comienza, en caso contrario el riego se detiene; si el nivel de agua disponible es muy bajo, el prototipo no acciona la bomba y manda un mensaje al usuario inform\'andole de lo acontecido. Para probar que lo anterior dicho sucede, se recrearon las condiciones necesarias para que cada uno de estos eventos suceda.
+Con la Raspberry censando de manera correcta las variables del entorno, se empez\'o a desarrollar un c\'odigo para la interpretaci\'on de los datos obtenidos. Por ejemplo: si la humedad en el suelo es muy baja el riego comienza, en caso contrario el riego se detiene; si el nivel de agua disponible es muy bajo, el prototipo no acciona la bomba y manda un mensaje al usuario inform\'andole de lo acontecido. Para probar que lo anterior dicho sucede, se recrearon las condiciones necesarias para que cada uno de estos eventos suceda.
+
+\subsection{Interacci\'on de la Rapsberry con la base de datos}
+En las \'ultimas fases de desarrollo, se implemento el manejo de una base de datos en la Rapsberry con el objetivo de guardar los valores obtenidos por los sensores y as\'i, tener una registro completo de lo que sucede minuto a minuto en el sistema de riego. Comprobar el funcionamiento de lo anterior requiri\'o de dos pruebas: la prueba de guardado de datos y la prueba de lectura de datos.
+La prueba de guardado de datos se realiz\'o con un script que tomaba los datos que reportaban aproximadamente cada segundo y los insertaba en la base de datos.\\
+La prueba de lectura de datos tambi\'en se realiz\'o con un script, solo que en este caso, era una modificaci\'on del c\'odigo para la interpretaci\'on de los datos obtenidos que, en vez de imprimir los valores obtenidos directamente, los guardaba en la base de datos y luego los mostraba desde la misma.
 
 \begin{comment} 
 Se puede observar en la imagen \ref{evento1} que, cuando el sensor de humedad del suelo reporta valores altos, el riego se detiene en el momento. 
@@ -83,41 +88,35 @@ Otra forma de detener el flujo de agua, es detectando un nivel de agua bajo pare
 \section{Resultados}
 \subsection{Prototipo en Arduino}
 Arduino puede se una herramienienta muy buena y aunque las pruebas fueron satisfactorias, Arduino presenta grandes desventajas respecto a otra placa, exactamente Raspberry ya que al tener su propio sistema operativo se pueden implementar carectiristicas que en un arduino no y que seran utiles para el futuro del proyecto.
-\subsection{Prototipo en Raspberry}
 
+\subsection{Prototipo en Raspberry}
 El prototipo del sistema de riego super\'o satisfactoriamente las pruebas a las que fue sometido, demostrando as\'i, su eficiencia en cuanto a recopilaci\'on e interpretaci\'on de datos se refiere.\\ 
 Como resultado de las pruebas, el prototipo sufri\'o constantes modificaciones de dise\~{n}o tanto en la parte hardware como en la parte de software. En lo que respecta al hardware, todo el sistema cr\'itico fue aislado en una caja, con correspondientes adaptaciones a la misma, y montado sobre un tanque de agua con el resto de los sensores ambientales a su alrededor, tal y como se ve en la imagen 5.4.%\ref{hardwareda}. 
-
 \begin{figure}[H]
 	\begin{center}
-		\subfigure[Exterior del prototipo.]{\includegraphics[width=7.5cm]{hardwarec}}
-		\subfigure[Interior del prototipo.]{\includegraphics[width=7.5cm]{hardwarea}}
+		\subfigure[Exterior del prototipo.]{\includegraphics[width=4.2cm]{hardwarec}}
+		\subfigure[Interior del prototipo.]{\includegraphics[width=5.28cm]{hardwarea}}
 	\end{center}
 	\label{hardwareda}
 	\caption{Vista del prototipo.}
 \end{figure} 
-
 En el caso del software, se desarroll\'o una interfaz gr\'afica simple, de manera que el usuario pueda interactuar con el prototipo de una manera m\'as amigable. La interfaz se puede ver en la imagen \ref{software}.
-
 \begin{figure}[H]
 	\begin{center}
-		\includegraphics[width=8cm]{software}
+		\includegraphics[width=5cm]{software}
 	\end{center}
 	\caption{Interfaz de usuario del prototipo.}
 	\label{software}
 \end{figure} 
-
-En la siguiente etapa del proyecto, se reestructur\'o el dise\~no de tal forma que, tanto los sensores utilizados como el funcionamiento del prototipo se visualizaran de forma efectiva. Por otro lado, esto nos ermiti\'o hacer pruebas para analizar dicha actividad. Los sensores conectados se aprecian en la imagen \ref{hardwarep}(a), as\'i mismo, se muestra el sistema en funcionamiento en la \ref{hardwarep}(b).
-
+En la siguiente etapa del proyecto, se reestructur\'o el dise\~no de tal forma que, tanto los sensores utilizados como el funcionamiento del prototipo se visualizaran de forma efectiva. Por otro lado, esto nos permiti\'o hacer pruebas para analizar dicha actividad. Los sensores conectados se aprecian en la imagen \ref{hardwarep}(a), as\'i mismo, se muestra el sistema en funcionamiento en la \ref{hardwarep}(b).
 \begin{figure}[H]
 	\begin{center}
-		\subfigure[Sensores conectados]{\includegraphics[width=7.5cm]{proto3}}
-		\subfigure[Sistema de riego encendido]{\includegraphics[width=7.5cm]{proto4}}
+		\subfigure[Sensores conectados]{\includegraphics[width=7.8cm]{proto3}}
+		\subfigure[Sistema de riego encendido]{\includegraphics[width=7.8cm]{proto4}}
 	\end{center}
 	\label{hardwarep}
 	\caption{Prototipo funcionando}
 \end{figure}
-
 Una parte fundamental del proyecto es la interfaz gr\'afica donde se aprecian los sensores implementados en el prototipo as\'i como los datos que se obtienen de estos sensores, en la imagen \ref{interfaz} se muestra la interfaz desarrollada para el prototipo.
 \begin{figure}[H]
 	\begin{center}

@@ -1,4 +1,4 @@
-\select@language {spanish}
+\babel@toc {spanish}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -22,11 +22,11 @@
 \contentsline {figure}{\numberline {5.3}{\ignorespaces Primera versi\'on del prototipo de sistema de riego}}{32}{figure.5.3}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados a la Raspberry.}}}{32}{figure.5.3}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Funcionamiento del script maestro.}}}{32}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Vista del prototipo.}}{34}{figure.5.4}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Exterior del prototipo.}}}{34}{figure.5.4}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del prototipo.}}}{34}{figure.5.4}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Vista del prototipo.}}{35}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Exterior del prototipo.}}}{35}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del prototipo.}}}{35}{figure.5.4}
 \contentsline {figure}{\numberline {5.5}{\ignorespaces Interfaz de usuario del prototipo.}}{35}{figure.5.5}
 \contentsline {figure}{\numberline {5.6}{\ignorespaces Prototipo funcionando}}{36}{figure.5.6}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sensores conectados}}}{36}{figure.5.6}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Sistema de riego encendido}}}{36}{figure.5.6}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Reestructuraci\'on de Interfaz gr\'afica.}}{37}{figure.5.7}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Reestructuraci\'on de Interfaz gr\'afica.}}{36}{figure.5.7}
