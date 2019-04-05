@@ -5,7 +5,7 @@ En este capitulo se describen las pruebas realizadas a los distintos prototipos 
 La primer prueba fue comprobar dos sensores, el sensor de humedad de tierra y la sonda de temperatura de agua utilizando un Arduino uno.
 
 \subsection{Simulaci\'on del sistema de riego basado en los sensores}
-Una vez comprobado el funcionamiento de los dos sensores, se implemento un relevador y una bomba de agua al Arduino. Tambi\'en se construyo una maqueta con un sistema de mangueras para ``simular'' riego por goteo utilizando los sensores para el control del mismo.
+Una vez comprobado el funcionamiento de los dos sensores, se implement\'o un relevador y una bomba de agua al Arduino. Tambi\'en se construyo una maqueta con un sistema de mangueras para ``simular'' riego por goteo utilizando los sensores para el control del mismo.
 
 
 \subsection{Control individual de los sensores del sistema de riego con Raspberry}
@@ -45,7 +45,7 @@ El dise\~{n}o inicial de la Raspberry con todos los sensores integrados puede se
 Con la Raspberry censando de manera correcta las variables del entorno, se empez\'o a desarrollar un c\'odigo para la interpretaci\'on de los datos obtenidos. Por ejemplo: si la humedad en el suelo es muy baja el riego comienza, en caso contrario el riego se detiene; si el nivel de agua disponible es muy bajo, el prototipo no acciona la bomba y manda un mensaje al usuario inform\'andole de lo acontecido. Para probar que lo anterior dicho sucede, se recrearon las condiciones necesarias para que cada uno de estos eventos suceda.
 
 \subsection{Interacci\'on de la Rapsberry con la base de datos}
-En las \'ultimas fases de desarrollo, se implemento el manejo de una base de datos en la Rapsberry con el objetivo de guardar los valores obtenidos por los sensores y as\'i, tener una registro completo de lo que sucede minuto a minuto en el sistema de riego. Comprobar el funcionamiento de lo anterior requiri\'o de dos pruebas: la prueba de guardado de datos y la prueba de lectura de datos.
+En las \'ultimas fases de desarrollo, se implement\'o el manejo de una base de datos en la Rapsberry con el objetivo de guardar los valores obtenidos por los sensores y as\'i, tener una registro completo de lo que sucede minuto a minuto en el sistema de riego. Comprobar el funcionamiento de lo anterior requiri\'o de dos pruebas: la prueba de guardado de datos y la prueba de lectura de datos.
 La prueba de guardado de datos se realiz\'o con un script que tomaba los datos que reportaban aproximadamente cada segundo y los insertaba en la base de datos.\\
 La prueba de lectura de datos tambi\'en se realiz\'o con un script, solo que en este caso, era una modificaci\'on del c\'odigo para la interpretaci\'on de los datos obtenidos que, en vez de imprimir los valores obtenidos directamente, los guardaba en la base de datos y luego los mostraba desde la misma.
 
@@ -87,7 +87,7 @@ Otra forma de detener el flujo de agua, es detectando un nivel de agua bajo pare
 
 \section{Resultados}
 \subsection{Prototipo en Arduino}
-Arduino puede se una herramienienta muy buena y aunque las pruebas fueron satisfactorias, Arduino presenta grandes desventajas respecto a otra placa, exactamente Raspberry ya que al tener su propio sistema operativo se pueden implementar carectiristicas que en un arduino no y que seran utiles para el futuro del proyecto.
+Arduino puede se una herramienienta muy buena y aunque las pruebas fueron satisfactorias, Arduino presenta grandes desventajas respecto a otra placa, exactamente Raspberry ya que al tener su propio sistema operativo se pueden implementar caracter\'isticas que en un Arduino no y que seran utiles para el futuro del proyecto.
 
 \subsection{Prototipo en Raspberry}
 El prototipo del sistema de riego super\'o satisfactoriamente las pruebas a las que fue sometido, demostrando as\'i, su eficiencia en cuanto a recopilaci\'on e interpretaci\'on de datos se refiere.\\ 
